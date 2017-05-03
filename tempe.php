@@ -80,7 +80,7 @@
                 text: 'Molde'
             },
             subtitle: {
-                text: 'Built chart in ...' // dummy text to reserve space for dynamic subtitle
+                text: 'Joda' // dummy text to reserve space for dynamic subtitle
             },
             series: series
         });
